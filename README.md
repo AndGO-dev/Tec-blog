@@ -1,3 +1,7 @@
+# url link
+
+https://andgo-dev.github.io/Tec-blog/
+
 # Tec-blog
 Mais um exercício de html e css que consiste em montar um blog de tecnologia. Aplicando  os conceitos de posicionamento de elementos.
 <br>
